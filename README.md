@@ -1,6 +1,6 @@
 # IntelligentSystems-Assigment_1
 
-#Graph Pathfinding wuth Genetic Algorithms
+Graph Pathfinding with Genetic Algorithms
 
 Git commands:
 
