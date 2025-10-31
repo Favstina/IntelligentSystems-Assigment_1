@@ -8,3 +8,5 @@ Git commands:
 - git commit -m "message"
 - git push
 - git pull
+
+git --help
